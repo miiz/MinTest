@@ -1,4 +1,4 @@
-package com.barclaycard.zhang.min;
+package com.barclays.fraud.springboot;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
